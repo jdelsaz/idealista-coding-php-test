@@ -1,0 +1,11 @@
+calculate_score:
+  path: /calculate_score
+  controller: App\Controller\CalculateScoreController
+
+public_listing:
+  path: /public_listing
+  controller: App\Controller\PublicListingController
+
+quality_listing:
+  path: /quality_listing
+  controller: App\Controller\QualityListingController
